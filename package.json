@@ -2,7 +2,8 @@
   "name": "gatsby-nest-api",
   "version": "0.0.1",
   "engines": {
-    "npm": "12.15.x"
+    "node": "12.15.x",
+    "npm": "6.13.7"
   },
   "description": "Heroes API",
   "author": "",
