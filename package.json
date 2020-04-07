@@ -1,7 +1,10 @@
 {
   "name": "gatsby-nest-api",
   "version": "0.0.1",
-  "description": "",
+  "engines": {
+    "npm": "12.15.0"
+  },
+  "description": "Heroes API",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
